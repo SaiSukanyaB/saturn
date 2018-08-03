@@ -6,4 +6,6 @@ def mul(x,y):
     pass
 def div(x,y):
     pass
+def mod(x,y):
+    pass
 
